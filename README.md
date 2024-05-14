@@ -1,7 +1,7 @@
 # Kaugeleulatuv ennustamine
 
-Töö on tehtud minu bakalaureusetöö "Pidevate tervisenäitajate kaugeleulatuv ennustamine" raames. <br><br>
-Tööle rakendub <strong>CC BY 4.0 litsents</strong>.
+See repositoorium on loodud minu bakalaureusetöö "Pidevate tervisenäitajate kaugeleulatuv ennustamine" raames. <br><br>
+Repositooriumile ja selle sisule rakendub <strong>CC BY 4.0 litsents</strong>.
 
 Programmi töötamiseks peavad olema paigaldatud:
 - Python: versioon 3.12.2 <br>
