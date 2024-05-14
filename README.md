@@ -1,4 +1,7 @@
-# Pidevate tervisenäitajate kaugeleulatuv ennustamine
+# Kaugeleulatuv ennustamine
+
+Töö on tehtud minu bakalaureusetöö "Pidevate tervisenäitajate kaugeleulatuv ennustamine" raames. <br><br>
+Tööle rakendub <strong>CC BY 4.0 litsents</strong>.
 
 Programmi töötamiseks peavad olema paigaldatud:
 - Python: versioon 3.12.2 <br>
