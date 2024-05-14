@@ -1,6 +1,6 @@
 # Kaugeleulatuv ennustamine
 
-See repositoorium on loodud minu bakalaureusetöö "Pidevate tervisenäitajate kaugeleulatuv ennustamine" raames. <br><br>
+See repositoorium on loodud minu bakalaureusetöö "Pidevate tervisenäitajate kaugeleulatuv ennustamine" raames. <br>
 Repositooriumile ja selle sisule rakendub <strong>CC BY 4.0 litsents</strong>.
 
 Programmi töötamiseks peavad olema paigaldatud:
